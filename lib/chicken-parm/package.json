@@ -1,0 +1,12 @@
+{
+  "name": "chicken-parm",
+  "keywords": [
+    "ember-addon"
+  ],
+
+  "ember-addon": {
+    "paths": [
+      "../chicken"
+    ]
+  }
+}
